@@ -1,0 +1,14 @@
+C:\Users\esmei\Documents\GitHub\Practica Calduladora\bin\Debug\net8.0\Practica Calduladora.exe
+C:\Users\esmei\Documents\GitHub\Practica Calduladora\bin\Debug\net8.0\Practica Calduladora.deps.json
+C:\Users\esmei\Documents\GitHub\Practica Calduladora\bin\Debug\net8.0\Practica Calduladora.runtimeconfig.json
+C:\Users\esmei\Documents\GitHub\Practica Calduladora\bin\Debug\net8.0\Practica Calduladora.dll
+C:\Users\esmei\Documents\GitHub\Practica Calduladora\bin\Debug\net8.0\Practica Calduladora.pdb
+C:\Users\esmei\Documents\GitHub\Practica Calduladora\obj\Debug\net8.0\Practica Calduladora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esmei\Documents\GitHub\Practica Calduladora\obj\Debug\net8.0\Practica Calduladora.AssemblyInfoInputs.cache
+C:\Users\esmei\Documents\GitHub\Practica Calduladora\obj\Debug\net8.0\Practica Calduladora.AssemblyInfo.cs
+C:\Users\esmei\Documents\GitHub\Practica Calduladora\obj\Debug\net8.0\Practica Calduladora.csproj.CoreCompileInputs.cache
+C:\Users\esmei\Documents\GitHub\Practica Calduladora\obj\Debug\net8.0\Practica Calduladora.dll
+C:\Users\esmei\Documents\GitHub\Practica Calduladora\obj\Debug\net8.0\refint\Practica Calduladora.dll
+C:\Users\esmei\Documents\GitHub\Practica Calduladora\obj\Debug\net8.0\Practica Calduladora.pdb
+C:\Users\esmei\Documents\GitHub\Practica Calduladora\obj\Debug\net8.0\Practica Calduladora.genruntimeconfig.cache
+C:\Users\esmei\Documents\GitHub\Practica Calduladora\obj\Debug\net8.0\ref\Practica Calduladora.dll
